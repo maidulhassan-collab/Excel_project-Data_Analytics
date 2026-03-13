@@ -1,11 +1,50 @@
 # Excel project - Data Jobs Salary Analysis Dashboard 
 
+  
 ![alt text](https://github.com/maidulhassan-collab/Excel_project-Data_Analytics/blob/main/Data%20jobs%20salary.gif)  
 
-## Dashboard file  
-My final dashboard is in [Data jobs Salary Dashboard](https://github.com/maidulhassan-collab/Excel_project-Data_Analytics/blob/main/Data%20Jobs%20Salary%20Dashboard.xlsx)
 
 ## Project Overview  
 This project analyzes salary trends in data-related jobs with respect to required skills, job demand, and compensation patterns. Using Microsoft Excel, the dataset was cleaned, structured, and visualized into an interactive dashboard that highlights key insights about the data job market.    
+
+
+## Objectives  
+- Identify the top skills required in data jobs.  
+- Explore the relationship between skills and salary levels.  
+- Analyze job demand trends across different roles and industries.  
+- Present findings in a clear, interactive Excel dashboard.  
+
+## Dashboard file  
+My final dashboard is in  [Data jobs Salary Dashboard](https://github.com/maidulhassan-collab/Excel_project-Data_Analytics/blob/main/Data%20Jobs%20Salary%20Dashboard.xlsx)  
+
+## Dataset  
+The dataset used for this project contains real-world Data Science job related information from 2023. The dataset provides a foundation for analyzing data using Excel.It includes detailed information on:  
+- Job Title
+- Salaries
+- Location
+- Skills  
+
+The dataset is given here [Dataset](https://github.com/maidulhassan-collab/Excel_project-Data_Analytics/blob/main/data_jobs_salary_all.xlsx)  
+
+## Tools & Techniques
+- Microsoft Excel: Data cleaning, pivot tables, charts, and dashboard design.
+- Data Visualization: Interactive charts and tables to highlight salary distributions and demand patterns.
+- Analytical Methods: Comparative analysis of skills vs. compensation.  
+
+## Key Insights  
+- Salary varies significantly based on skills and experience levels.
+- Certain technical skills (e.g., Python, SQL, Machine Learning) are strongly correlated with higher compensation.
+- Job demand is concentrated in roles such as Data Analyst, Data Scientist, and Machine Learning Engineer.
+
+## Project Structure
+- [Data jobs Salary Dashboard](https://github.com/maidulhassan-collab/Excel_project-Data_Analytics/blob/main/Data%20Jobs%20Salary%20Dashboard.xlsx) → Main Excel file containing the dataset and dashboard.
+- [README.md](https://github.com/maidulhassan-collab/Excel_project-Data_Analytics/blob/main/README.md) → Project documentation (this file).
+
+
+## Acknowledgments
+This project was developed as part of my portfolio to demonstrate skills in data analysis, visualization, and dashboard creation using Excel.
+
+
+
 
 
