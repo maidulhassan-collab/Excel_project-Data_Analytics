@@ -27,7 +27,7 @@ The dataset used for this project contains real-world Data Science job related i
 The dataset is given here [Dataset](https://github.com/maidulhassan-collab/Excel_project-Data_Analytics/blob/main/data_jobs_salary_all.xlsx)  
 
 ## Tools & Techniques
-- Microsoft Excel: Data cleaning, pivot tables, charts, and dashboard design.
+- Microsoft Excel: Data cleaning(power query), pivot tables, charts, and dashboard design.
 - Data Visualization: Interactive charts and tables to highlight salary distributions and demand patterns.
 - Analytical Methods: Comparative analysis of skills vs. compensation.  
 
