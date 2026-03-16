@@ -26,15 +26,28 @@ The dataset used for this project contains real-world Data Science job related i
 
 The dataset is given here [Dataset](https://github.com/maidulhassan-collab/Excel_project-Data_Analytics/blob/main/data_jobs_salary_all.xlsx)  
 
-## Tools & Techniques
+## Tools & Techniques  
 - Microsoft Excel: Data cleaning (power query), pivot tables, charts, and dashboard design.
 - Data Visualization: Interactive charts and tables to highlight salary distributions and demand patterns.
 - Analytical Methods: Comparative analysis of skills vs. compensation.  
 
 ## Key Insights  
-- Salary varies significantly based on skills and experience levels.
-- Certain technical skills (e.g., Python, SQL, Machine Learning) are strongly correlated with higher compensation.
-- Job demand is concentrated in roles such as Data Analyst, Data Scientist, and Machine Learning Engineer.
+**Key Metrics**
+- Average Salary: Displays the typical compensation across data roles.
+- Job Demand: Highlights the number of openings or demand trends for data professionals.
+- Top Skills: Lists the most requested skills (e.g., Python, SQL, Machine Learning) and their impact on salary levels.  
+
+**Salary Insights**  
+- Salary Distribution: Visual breakdown of salary ranges across different roles (Data Analyst, Data Scientist, Machine Learning Engineer, etc.).
+- Skill vs. Salary Comparison: Shows how specific technical skills correlate with higher compensation.
+- Experience Levels: Differentiates salaries by junior, mid‑level, and senior positions.  
+
+**Market Trends**  
+- Industry Breakdown: Highlights which industries (tech, finance, consulting, etc.) offer the highest salaries.
+- Regional Differences: Compares salary levels across geographic regions, showing where demand is strongest.
+
+**Purpose**  
+This dashboard acts as a strategic overview: it summarizes the state of the data job market, identifies the skills that drive higher salaries, and highlights demand patterns. It’s designed to give recruiters, job seekers, and analysts a clear picture of where opportunities lie and what skills matter most.
 
 ## Project Structure
 - [Data jobs Salary Dashboard](https://github.com/maidulhassan-collab/Excel_project-Data_Analytics/blob/main/Data%20Jobs%20Salary%20Dashboard.xlsx) → Main Excel file containing the dataset and dashboard.
